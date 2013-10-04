@@ -4,7 +4,7 @@
 # Date: 10/03/2013                                                                      #
 # Version: 1.0                                                                          #
 # Description:                                                                          #
-# This is a simple script that helps you install the uptimeChecker into cron. The last  #
+# This is a simple script to help you install uptimeGeneralChecker into cron. The last  #
 # part needs to be done by the user. Short answer: Humans are fat and need to exercise  #
 # some.                                                                                 #
 #########################################################################################
